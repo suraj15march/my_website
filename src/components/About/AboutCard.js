@@ -19,7 +19,7 @@ function AboutCard() {
               <br />
               <br />I am fluent in
               <i>
-                <b className="purple"> Java, Python and JavaScript. </b>
+                <b className="purple"> Python, Golang and Javascript. </b>
               </i>
               <br />
               <br />

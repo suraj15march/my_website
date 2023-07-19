@@ -33,7 +33,7 @@ function Projects() {
             <ProjectCard
               imgPath={portfolio}
               isBlog={false}
-              title="JeevAyush"
+              title="Fluent-bit Logs Output"
               description="App to locate nearby AYUSH ( clinics offering services like Ayurveda, Unani, Siddha, Homeopathy) hopsitals.User can filter out distance or chose to locate hospitals based on the symptoms he/she feels.All the information of the hospital is displayed once user clicks on the marker. "
               link="https://github.com/SchrOdinger11/JeevAyush"
             />
@@ -43,24 +43,17 @@ function Projects() {
             <ProjectCard
               imgPath={weather}
               isBlog={false}
-              title="Rush Estimator For Corporate Cafeteria "
+              title="Virtual Operating System"
               description="Created a cafeteria footfall predictor application with inventory management and revenue prediction features using ReactJs,NextJs,MongoDB and Machine Learning techniques."
               link="https://github.com/SchrOdinger11/Rush-Estimator-for-Corporate-Cafeteria"
-            />
-
-
-
-
-
-
-       
+            />       
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={music}
               isBlog={false}
-              title="Music Recommender System using Deep Networks"
+              title="Tour Management System"
               description="Developed a deep learning model for music recommendation which is based on emotion detection and face recognition.The final music is added into personalised spotify user playlist."
               link="https://github.com/SchrOdinger11/RecommendationMusic"
             />
@@ -71,7 +64,7 @@ function Projects() {
             <ProjectCard
               imgPath={um}
               isBlog={false}
-              title="Umeed-Disaster Management App"
+              title="Grafana Loki sample with Docker and fluent-bit"
               description="A disaster management which has features such as emergency calling, messaging and locating nearby emergency locations etc. Developed in Android Java"
               link="https://github.com/SchrOdinger11/Umeed_Disaster_Management"
             />
@@ -81,7 +74,7 @@ function Projects() {
             <ProjectCard
               imgPath={algo}
               isBlog={false}
-              title="AlgoVisualizer"
+              title="Whatsapp Remainder Application"
               description="Built a path finding visualizer webApp in ReactJs.This project helps us visualize how Djikshtra , Breadth First Search and Depth First Search algorithms work to find the shortest path between source and destination."
               link="https://github.com/SchrOdinger11/AlgoVisualizer"
             />
@@ -90,7 +83,7 @@ function Projects() {
             <ProjectCard
               imgPath={ros}
               isBlog={false}
-              title="ROS Scanner"
+              title="Golden Ratio"
               description="Android Application based on Optical Character Recognition built in android studio using Java , Xml, Figma , FireBase and ML SDK Kit APIs. Have features such as text detection, language identification and translation, Text to speech conversion and more!"
               link="https://github.com/SchrOdinger11/Ros-Scanner-V2"
             />
